@@ -1,0 +1,10 @@
+{
+  "description": "My awesome portfolio",
+  "repo": "https://github.com/tuanama13/tuanama13.github.io",
+  "owner": {
+    "username": "tuanama13"
+  },
+  "record": {
+    "CNAME": "tuanama13.github.io"
+  }
+}
